@@ -1,1 +1,1 @@
-#Solution for Hacker Rank Questions. 
+# Solution for Hacker Rank Questions. 
